@@ -1,0 +1,6 @@
+[submodule "mocha"]
+	path = mocha
+	url = git@github.com:mocha-android/framework.git
+[submodule "mocha-collection-view"]
+	path = mocha-collection-view
+	url = git@github.com:mocha-android/collection-view.git
